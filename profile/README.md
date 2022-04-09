@@ -5,4 +5,9 @@
 <a href="https://discord.gg/6FbvxZ9ekZ">
     <img src="https://img.shields.io/discord/961777749188546580?color=7489d5&logo=discord&logoColor=ffffff" />
   </a>
+    <img src="https://img.shields.io/static/v1?label=Status&message=Development&color=blue">
   </p>
+
+Parodi Linux dağıtımı projesi.
+
+TBC
