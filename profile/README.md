@@ -10,4 +10,9 @@
 
 Parodi Linux dağıtımı projesi.
 
-TBC
+<p align="center">
+<img src="http://cyber.dabamos.de/88x31/vim.vialle.love.anim.gif"/>
+<img src="https://anlucas.neocities.org/awesome.gif"/>
+<img src="https://anlucas.neocities.org/hatems.jpg"/>
+<img src="http://cyber.dabamos.de/88x31/visitmini.gif"/>
+</p>
